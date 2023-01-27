@@ -7,7 +7,8 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyle
 
 const Header = () =>  (
   <div>
-    Header
+    Header Portfolio 
+    <img src="./TroiLogo.png"/>
   </div>
 );
 

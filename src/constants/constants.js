@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Dummy Landing Page',
+    description: "Using React only, I created this User interface for clients who would like to use this template for commercial or personal use. This is my first dummy landing page and it's only a one page App. Feel free to visit the site and give your opinions for this user interface. The Source code is also included.",
+      image: '/images/DummyLandingUnresponsive.png',
+      tags: ['React', 'JavaScript'],
+    source: 'https://troi-landing.vercel.app/',
+    visit: 'https://github.com/TamaniPhiri/TroiLanding',
     id: 0,
   },
   {

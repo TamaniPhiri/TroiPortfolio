@@ -22,7 +22,7 @@ export const projects = [
     description: "This is a code repository for the corresponding Landing Page. Fuly Responsive and deployed with Vercel. Only HTML, CSS and JavaScript used",
       image: '/images/TroiMac.png',
       tags: ['HTML', 'CSS', 'JavaScript'],
-    source: 'https://google.com',
+    source: 'https://troi-mac-web.vercel.app/',
     visit: 'https://google.com',
     id: 2,
   },

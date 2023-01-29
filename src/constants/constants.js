@@ -13,8 +13,8 @@ export const projects = [
     description:"This UI/UX design was created while making this portfolio website simultaneously in Figma and the inspiration was captured from dribbble. Visit the link showing the full prototype and give opinions for this UI/UX design. The FigJam file is also included so that you can copy it and use it for your next mobile app.",
     image: '/images/FigmaGym.png',
     tags: ['Figma only'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://www.figma.com/file/sUCvlw8K1r3NNc3Jk6seIG/Untitled?node-id=0%3A1&t=2AVvQODebM8i79x5-0',
+    visit: 'https://www.figma.com/proto/sUCvlw8K1r3NNc3Jk6seIG/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2',
     id: 1,
   },
   {

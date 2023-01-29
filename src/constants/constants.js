@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/TroiMac.png',
       tags: ['HTML', 'CSS', 'JavaScript'],
     source: 'https://troi-mac-web.vercel.app/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/TamaniPhiri/TroiMacWeb',
     id: 2,
   },
   {

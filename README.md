@@ -1,3 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+created using react Next.js 
+fully responsive :)

@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Users REST API',
+    description: "This is a code repository for the corresponding REST API. This API is free to use in non-commercial projects especially for school purposes only",
+    image: '/images/pj4.png',
+    tags: ['Express', 'Node', 'Cors'],
+    source: 'https://api.jsonbin.io/v3/b/63d8cb5bc0e7653a0569c4c6',
+    visit: 'https://github.com/TamaniPhiri/Demo-ExpressAPI',
     id: 3,
   },
 ];
